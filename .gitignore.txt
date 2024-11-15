@@ -1,0 +1,17 @@
+#Ignorar carpetes de compilacio: bin i /obj
+bin
+/obj
+#Ignora fixers de Visual Studio:.vs,.vscode,.idea
+.vs
+.vscode
+.idea
+#Ignora fitxer temporals: Thumbs.db, ehthumbs.db
+Thumbs.db
+ehthumbs.db
+#Ignora els fitxer Nuget:.nuget
+.nuget
+#Ignora els fitxers amb extensio:.user,.sue,.userosscache,.sln.docstates
+*.user
+*.sue
+*.userosscache
+*.sln.docstates
