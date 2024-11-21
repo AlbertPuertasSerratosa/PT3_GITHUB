@@ -1,0 +1,17 @@
+#Ignora carpetes de compilacio:/bin i /obj
+/bin
+/obj
+#Ignora fitxers de Visual Studio:.vs,.vscode,.idea
+.vs
+.vscode
+.idea
+#Ignora fitxers temporals: Thumbs.db,ehtumbs.db
+Thumbs.db
+ehtumbs.db
+#Ignora els fitxers Nuget:.nuget
+.nuget
+#Ignora els fitxers amb extencio:.user,.suo,.usersscache,.sln.docstates
+*.user
+*.suo
+*.usersscache
+*.sln.docstates
