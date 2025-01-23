@@ -1,1 +1,3 @@
-Primer en remot (Esteve Tinto)
+Esteve Tinto
+Albert Puertas
+Jose Manuel (Pepe)
