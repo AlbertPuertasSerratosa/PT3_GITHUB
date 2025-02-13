@@ -14,8 +14,8 @@ class Program
 
         List<Cotxe> cotxes = new List<Cotxe>
         {
-            new Cotxe("Model S", "Tesla", 2022, 250, 4),
-            new Cotxe("Civic", "Honda", 2019, 220, 4)
+            new Cotxe("GT", "Mustang", 2022, 250, 2),
+            new Cotxe("Huracan", "Lamborgini", 2010, 220, 2)
         };
 
         List<Camio> camions = new List<Camio>
