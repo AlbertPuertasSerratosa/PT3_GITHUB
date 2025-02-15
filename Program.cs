@@ -20,8 +20,8 @@ class Program
 
         List<Camio> camions = new List<Camio>
         {
-            new Camio("Actros", "Mercedes", 2021, 120, 18000),
-            new Camio("FH16", "Volvo", 2018, 110, 25000)
+            new Camio("Delux", "Mini", 2021, 120, 18000),
+            new Camio("Delicatece", "Magnum", 2018, 110, 25000)
         };
 
         // Mostrar informació de cada tipus de vehicle
